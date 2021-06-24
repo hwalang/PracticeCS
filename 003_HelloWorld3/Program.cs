@@ -35,6 +35,7 @@ namespace _003_HelloWorld3
         static int Main(string[] args)
         {
             Console.WriteLine("static int Main(string[] args)");
+            Console.WriteLine("string{0} int{1}", "dd", 1);
             return 0;
         }
     }
